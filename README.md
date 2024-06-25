@@ -1,5 +1,15 @@
 # MERN Stack Project
 
+![Screenshot 2024-06-25 180951](https://github.com/AnushkaShendge/Airbnb2/assets/145828745/6219ba28-7c5a-4dcb-b722-831a89c6cee7)
+
+![Screenshot 2024-06-25 181133](https://github.com/AnushkaShendge/Airbnb2/assets/145828745/6851958c-b2cd-4866-9537-872c553fea08)
+
+![Screenshot 2024-06-25 181225](https://github.com/AnushkaShendge/Airbnb2/assets/145828745/920b2a27-766e-4dbb-87fe-bca50a3b2af8)
+
+![Screenshot 2024-06-25 181301](https://github.com/AnushkaShendge/Airbnb2/assets/145828745/e1bfab07-ff78-42fb-b7ea-f664e1a277a2)
+
+
+
 ## Overview
 
 This is a web application built using the MERN stack (MongoDB, Express, React, Node.js). The project implements user authentication using JWT tokens and is styled using Tailwind CSS. Users can also upload photos as part of their profiles or posts.
