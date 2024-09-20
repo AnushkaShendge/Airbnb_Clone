@@ -1,4 +1,4 @@
-# MERN Stack Project
+# AIRBNB (MERN)
 
 ![Screenshot 2024-06-25 180951](https://github.com/AnushkaShendge/Airbnb2/assets/145828745/6219ba28-7c5a-4dcb-b722-831a89c6cee7)
 
